@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Border Gradients",
+    "description": "Generate border gradients with the rounded utility class.",
+    "category": "Theming",
+    "link": "https://github.com/batistein/tailwindcss-border-gradient-radius",
+    "author": "batistein"
+  },
+  {
+    "id": 2,
+    "name": "Patterns",
+    "description": "Provides 150+ free svg patterns you can use as background image with utility classes.",
+    "category": "Theming",
+    "link": "https://github.com/beaubus/svg-patterns-for-tailwindcss",
+    "author": "beaubus"
+  },
+  {
+    "id": 3,
+    "name": "Animate",
+    "description": "A plugin for creating beautiful animations.",
+    "category": "Animation",
+    "link": "https://github.com/jamiebuilds/tailwindcss-animate",
+    "author": "jamiebuilds"
+  },
+  {
+    "id": 4,
+    "name": "Wind Themes",
+    "description": "A lightweight Tailwind CSS plugin that handles multiple themes.",
+    "category": "Theming",
+    "link": "https://github.com/vaibhavshn/wind-themes",
+    "author": "vaibhavshn"
+  },
+  {
+    "id": 5,
+    "name": "Unsplash Background Image",
+    "description": "Apply background image from Unsplash",
+    "category": "Theming",
+    "link": "https://github.com/shorwood/tailwindcss-unsplash",
+    "author": "shorwood"
+  },
+  {
+    "id": 6,
+    "name": "Typography",
+    "description": "Provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML.",
+    "category": "Official",
+    "link": "https://github.com/tailwindlabs/tailwindcss-typography",
+    "author": "tailwindlabs"
+  },
+  {
+    "id": 7,
+    "name": "Forms",
+    "description": "A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.",
+    "category": "Official",
+    "link": "https://github.com/tailwindlabs/tailwindcss-forms",
+    "author": "tailwindlabs"
+  },
+  {
+    "id": 8,
+    "name": "CSS Variables",
+    "description": "A plugin allows you to configure CSS variables in the tailwind.config.js.",
+    "category": "Components",
+    "link": "https://github.com/mertasan/tailwindcss-variables",
+    "author": "mertasan"
+  },
+  {
+    "id": 9,
+    "name": "Card",
+    "description": "Add a card components to your project.",
+    "category": "Components",
+    "link": "https://github.com/NathanHeffley/tailwindcss-card",
+    "author": "NathanHeffley"
+  },
+  {
+    "id": 9,
+    "name": "CSS Debug Screens",
+    "description": "A component that shows the currently active screen (responsive breakpoint).",
+    "category": "Components",
+    "link": "https://github.com/jorenvanhee/tailwindcss-debug-screens",
+    "author": "jorenvanhee"
+  },
+  {
+    "id": 10,
+    "name": "FormKit",
+    "description": "This package contains tooling to assist with building a comprehensive Tailwind theme for FormKit.",
+    "category": "Components",
+    "link": "https://github.com/formkit/formkit/tree/master/packages/tailwindcss",
+    "author": "formkit"
+  },
+  {
+    "id": 11,
+    "name": "Container Query",
+    "description": "A plugin that provides CSS Container Queries.",
+    "category": "Utilities",
+    "link": "https://github.com/dgknca/tailwindcss-container-query",
+    "author": "dgknca"
+  }
+]
